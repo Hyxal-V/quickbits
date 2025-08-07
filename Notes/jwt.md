@@ -121,7 +121,7 @@ const USERS = [
 const generateAccessToken = (user) => {
   return jwt.sign({ id: user.id }, process.env.JWT_SECRET, {
     expiresIn: process.env.JWT_EXPIRY || "15m"
-  });
+  });     
 };
 
 const generateRefreshToken = (user) => {
