@@ -17,3 +17,5 @@ Pull requests welcome. Let’s keep it short, sweet, and useful.
 ## 🧠 Topics Covered
 - [Express-JS](Notes/ExpressJS.pdf)
 - [Software Testing](Notes/SoftwareTesting.pdf)
+- [JSON Web Tokens](Notes/jwt.pdf)
+- [Redis](Notes/Redis.pdf)
